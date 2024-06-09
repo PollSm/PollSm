@@ -1,6 +1,5 @@
-///[![Header](https://github.com/PollSm/PollSm/blob/main/header.png)]
+[![Header](https://github.com/PollSm/PollSm/blob/main/header.png)]
 
-<img src="https://github.com/PollSm/PollSm/blob/main/header.png" alt="The Unlimited" heigth="80"/>
 ### Educations:
 ТГУ, Аналитик данных:
 - Основы Python для анализа данных (осуществлять проверку, обработку и анализ данных на Python)
