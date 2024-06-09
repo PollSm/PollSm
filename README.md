@@ -1,4 +1,4 @@
-[![Header](https://github.com/PollSm/PollSm/blob/main/header.png)]
+![Header](https://github.com/PollSm/PollSm/blob/main/header.png)
 
 ### Educations:
 ТГУ, Аналитик данных:
